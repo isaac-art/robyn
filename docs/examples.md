@@ -35,7 +35,7 @@ app.start(port=5000)
 
 ### Interaction with a Database
 
-It should be fairly easy to make a crud app example. Here's a minimal example using Prisma(`pip install prisma-client-py`) with Robyn.
+It should be fairly easy to make a crud app example. Here's a minimal example using Prisma(`pip install prisma-client`) [pypi](https://pypi.org/project/prisma-client/) with Robyn.
 
 ```python
 from robyn import Robyn
